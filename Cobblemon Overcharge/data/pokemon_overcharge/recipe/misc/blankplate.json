@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "G": {
+      "item": "cobblemon:silk_scarf"
+    },
+    "R": {
+      "item": "mega_showdown:normal_tera_shard"
+    },
+    "W": {
+      "item": "cobblemon:normal_gem"
+    }
+  },
+  "pattern": [" R ", "RGR", " W "],
+  "result": {
+    "count": 1,
+    "id": "minecraft:popped_chorus_fruit",
+    "components": {
+      "minecraft:custom_model_data": 10595,
+      "minecraft:item_name": "{\"translate\":\"item.pokemon_overcharge.blankplate\", \"italic\":false}",
+      "minecraft:lore": [
+        "{\"translate\":\"tooltip.pokemon_overcharge.blankplate\", \"color\":\"gray\", \"italic\":false}"
+      ],
+      "mega_showdown:registry_type_component": "showdown_item",
+      "mega_showdown:registry_location_component": "pokemon_overcharge:misc/blankplate"
+    }
+  }
+}

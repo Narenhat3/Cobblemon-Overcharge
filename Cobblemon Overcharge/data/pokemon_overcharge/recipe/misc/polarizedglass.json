@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "G": { "item": "minecraft:tinted_glass" },
+    "R": { "item": "minecraft:gold_nugget" },
+    "F": { "item": "minecraft:gold_ingot" }
+  },
+  "pattern": [" RF", "RGR", "FR "],
+  "result": {
+    "count": 1,
+    "id": "minecraft:popped_chorus_fruit",
+    "components": {
+      "minecraft:custom_model_data": 10791,
+      "minecraft:item_name": "{\"translate\":\"item.pokemon_overcharge.polarizedglass\", \"italic\":false}",
+      "minecraft:lore": [
+        "{\"translate\":\"tooltip.pokemon_overcharge.polarizedglass\", \"color\":\"gray\", \"italic\":false}"
+      ],
+      "mega_showdown:registry_type_component": "showdown_item",
+      "mega_showdown:registry_location_component": "pokemon_overcharge:misc/polarizedglass"
+    }
+  }
+}

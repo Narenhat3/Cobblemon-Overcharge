@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "G": {
+      "item": "minecraft:iron_ingot"
+    },
+    "R": {
+      "item": "minecraft:iron_nugget"
+    }
+  },
+  "pattern": ["  G", "RRG", "RR "],
+  "result": {
+    "count": 1,
+    "id": "minecraft:popped_chorus_fruit",
+    "components": {
+      "minecraft:custom_model_data": 10592,
+      "minecraft:item_name": "{\"translate\":\"item.pokemon_overcharge.trainingwheels\", \"italic\":false}",
+      "minecraft:lore": [
+        "{\"translate\":\"tooltip.pokemon_overcharge.trainingwheels\", \"color\":\"gray\", \"italic\":false}"
+      ],
+      "mega_showdown:registry_type_component": "showdown_item",
+      "mega_showdown:registry_location_component": "pokemon_overcharge:misc/trainingwheels"
+    }
+  }
+}

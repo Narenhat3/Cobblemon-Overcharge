@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "D": {
+      "item": "minecraft:paper"
+    },
+    "I": {
+      "item": "minecraft:honeycomb"
+    },
+    "T": {
+      "item": "cobblemon:charcoal_stick"
+    },
+    "Z": {
+      "item": "cobblemon:flying_gem"
+    }
+  },
+  "pattern": ["DZD", "DID", "DTD"],
+  "result": {
+    "count": 1,
+    "id": "minecraft:popped_chorus_fruit",
+    "components": {
+      "minecraft:custom_model_data": 55008,
+      "minecraft:item_name": "{\"translate\":\"item.pokemon_overcharge.flyingcrayon\", \"italic\":false}",
+      "minecraft:lore": [
+        "{\"translate\":\"tooltip.pokemon_overcharge.flyingcrayon\", \"color\":\"gray\", \"italic\":false}"
+      ],
+      "mega_showdown:registry_type_component": "showdown_item",
+      "mega_showdown:registry_location_component": "pokemon_overcharge:crayons/flyingcrayon"
+    }
+  }
+}

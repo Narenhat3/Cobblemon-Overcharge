@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:smithing_transform",
+  "template": {
+    "item": "minecraft:netherite_upgrade_smithing_template"
+  },
+  "base": {
+    "item": "cobblemon:light_ball"
+  },
+  "addition": {
+    "item": "minecraft:lightning_rod"
+  },
+  "result": {
+    "id": "minecraft:popped_chorus_fruit",
+    "components": {
+      "minecraft:custom_model_data": 10591,
+      "minecraft:item_name": "{\"translate\":\"item.pokemon_overcharge.shockingorb\", \"italic\":false}",
+      "minecraft:lore": [
+        "{\"translate\":\"tooltip.pokemon_overcharge.shockingorb\", \"color\":\"gray\", \"italic\":false}"
+      ],
+      "mega_showdown:registry_type_component": "showdown_item",
+      "mega_showdown:registry_location_component": "pokemon_overcharge:misc/shockingorb"
+    }
+  }
+}

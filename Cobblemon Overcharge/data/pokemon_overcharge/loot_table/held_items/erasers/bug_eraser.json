@@ -1,0 +1,27 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:popped_chorus_fruit"
+        }
+      ]
+    }
+  ],
+  "functions": [
+    {
+      "function": "minecraft:set_components",
+      "components": {
+        "minecraft:custom_model_data": 10571,
+        "minecraft:item_name": "{\"translate\":\"item.pokemon_overcharge.bugeraser\", \"italic\":false}",
+        "minecraft:lore": [
+          "{\"translate\":\"tooltip.pokemon_overcharge.bugeraser\", \"color\":\"gray\", \"italic\":false}"
+        ],
+        "mega_showdown:registry_type_component": "showdown_item",
+        "mega_showdown:registry_location_component": "pokemon_overcharge:erasers/bugeraser"
+      }
+    }
+  ]
+}

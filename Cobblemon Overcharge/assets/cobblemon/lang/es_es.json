@@ -1,0 +1,268 @@
+{
+  "cobblemon.move.brilliantcut": "Corte Brillante",
+  "cobblemon.move.brilliantcut.desc": "El usuario ejecuta un corte elegante y resplandeciente que brilla con energía. Puede dejar al objetivo paralizado por el impacto de su fulgor.",
+
+  "cobblemon.move.degradation": "Degradación",
+  "cobblemon.move.degradation.desc": "El usuario lanza una descarga tóxica que descompone estructuras metálicas. Es especialmente eficaz contra Pokémon de tipo Acero y puede llegar a envenenarlos.",
+
+  "cobblemon.move.dragonblaze": "Llamarada Dracónica",
+  "cobblemon.move.dragonblaze.desc": "El usuario exhala fuego dracónico ardiente en una ráfaga concentrada. Puede llegar a quemar al objetivo.",
+
+  "cobblemon.move.electroears": "Electrorejas",
+  "cobblemon.move.electroears.desc": "El usuario frota sus orejas eléctricas y lanza un golpe cargado. Su poder se duplica si está paralizado, y la velocidad nunca disminuye mientras ataca.",
+
+  "cobblemon.move.falseimpact": "Falso Impacto",
+  "cobblemon.move.falseimpact.desc": "Con un destello oscuro y un susurro de magia, el usuario desata un golpe fugaz al entrar en batalla. El rival, paralizado por el temor, retrocede al instante sin poder reaccionar.",
+
+  "cobblemon.move.thunderstrike": "Patada Estruendo",
+  "cobblemon.move.thunderstrike.desc": "Una patada cargada de gran fuerza que, al recibirla, puede llegar a aturdir al rival.",
+
+  "cobblemon.move.lovinggale": "Gala de Amor",
+  "cobblemon.move.lovinggale.desc": "El usuario manipula las emociones del objetivo mediante un poderoso lazo afectivo. Si ambos son de géneros opuestos, el objetivo cae bajo un encantamiento emocional que cura al creador del vínculo y refuerza sus defensas. Si el vínculo no se establece, el usuario se desestabiliza emocionalmente y ve reducidas sus defensas.",
+  "cobblemon.battle.activate.lovinggalesuccess": "%1$s establece un vínculo emocional con el oponente.",
+  "cobblemon.battle.activate.lovinggalefail": "%1$s no logra establecer un vínculo emocional con el oponente.",
+  "cobblemon.battle.activate.lovinggalesame": "A %1$s no le interesa el oponente.",
+
+  "cobblemon.ability.mentalist": "Plano Mental",
+  "cobblemon.ability.mentalist.desc": "Crea un espacio extraño al inicio del combate en el que los Pokémon lentos se mueven primero durante cinco turnos.",
+
+  "cobblemon.ability.polymorphism": "Polimorfismo",
+  "cobblemon.ability.polymorphism.desc": "Al entrar en combate, el usuario altera brevemente la esencia del rival, añadiéndole el tipo Hada.",
+
+  "cobblemon.ability.sharedmonarchy": "Monarquía Compartida",
+  "cobblemon.ability.sharedmonarchy.desc": "El poder de la realeza se reparte entre dos linajes. Potencia únicamente los movimientos de tipo Dragón y Hada con menor potencia base, haciendo brillar incluso a los más humildes entre ellos.",
+
+  "cobblemon.ability.mytheater": "Devorador Onírico",
+  "cobblemon.ability.mytheater.desc": "Alimentándose de los sueños y las ilusiones, este Pokémon devora la esencia misma de las hadas. En lugar de dañarlo, los ataques de tipo Hada lo fortalecen, haciéndolo aún más resistente a los embates especiales.",
+
+  "cobblemon.ability.override": "Libre Albedrío",
+  "cobblemon.ability.override.desc": "Este Pokémon no está limitado a un solo movimiento cuando sostiene un objeto de Elección.",
+
+  "cobblemon.ability.bizarre": "Bizarro",
+  "cobblemon.ability.bizarre.desc": "Este Pokémon invierte la eficacia de todos los tipos, lo que normalmente sería débil ahora es fuerte, y lo que normalmente sería fuerte se vuelve débil.",
+  "cobblemon.battle.activate.bizarre": "¡El campo de batalla se tuerce misteriosamente!",
+  "cobblemon.battle.end.bizarre": "¡El campo de batalla vuelve a la normalidad!",
+
+  "item.pokemon_overcharge.shockingorb": "§fElectrosfera",
+  "tooltip.pokemon_overcharge.shockingorb": "§7Paraliza al portador.",
+
+  "item.pokemon_overcharge.trainingwheels": "§fRuedines",
+  "tooltip.pokemon_overcharge.trainingwheels": "§7Aumenta el Ataque y el Ataque Especial del portador si no está completamente evolucionado.",
+
+  "item.pokemon_overcharge.earmuffs": "§fAuriculares Insonoros",
+  "tooltip.pokemon_overcharge.earmuffs": "§7Reduce a la mitad la potencia de los movimientos basados en sonido usados contra el portador.",
+
+  "item.pokemon_overcharge.oldshield": "§fEscudo Antiguo",
+  "tooltip.pokemon_overcharge.oldshield": "§7Aumenta la defensa del portador, pero impide el uso de movimientos de estado.",
+
+  "item.pokemon_overcharge.blankplate": "§fTabla Neutra",
+  "tooltip.pokemon_overcharge.blankplate": "§7Una tabla que aumenta la potencia de los movimientos tipo Normal.",
+
+  "item.pokemon_overcharge.polarizedglass": "§fCristal Polarizado",
+  "tooltip.pokemon_overcharge.polarizedglass": "§7El Pokémon que lleva este objeto puede ignorar la habilidad del oponente. Pero si recibe un ataque, el cristal se romperá.",
+  "cobblemon.battle.item.polarizedglass": "¡%1$s mira a través del Cristal Polarizado!",
+  "cobblemon.battle.enditem.polarizedglass": "¡El Cristal Polarizado de %1$s se ha roto!",
+
+  "item.pokemon_overcharge.bugeraser": "§fBorrador Bicho",
+  "tooltip.pokemon_overcharge.bugeraser": "§7Borra el tipo Bicho.",
+  "cobblemon.battle.item.bugeraser": "¡%1$s perdió su tipo Bicho gracias al Borrador Bicho!",
+  "cobblemon.battle.enditem.bugeraser": "¡%1$s recuperó su tipo Bicho al liberarse del Borrador Bicho!",
+
+  "item.pokemon_overcharge.darkeraser": "§fBorrador Siniestro",
+  "tooltip.pokemon_overcharge.darkeraser": "§7Borra el tipo Siniestro.",
+  "cobblemon.battle.item.darkeraser": "¡%1$s perdió su tipo Siniestro gracias al Borrador Siniestro!",
+  "cobblemon.battle.enditem.darkeraser": "¡%1$s recuperó su tipo Siniestro al liberarse del Borrador Siniestro!",
+
+  "item.pokemon_overcharge.dragoneraser": "§fBorrador Dragón",
+  "tooltip.pokemon_overcharge.dragoneraser": "§7Borra el tipo Dragón.",
+  "cobblemon.battle.item.dragoneraser": "¡%1$s perdió su tipo Dragón gracias al Borrador Dragón!",
+  "cobblemon.battle.enditem.dragoneraser": "¡%1$s recuperó su tipo Dragón al liberarse del Borrador Dragón!",
+
+  "item.pokemon_overcharge.electriceraser": "§fBorrador Eléctrico",
+  "tooltip.pokemon_overcharge.electriceraser": "§7Borra el tipo Eléctrico.",
+  "cobblemon.battle.item.electriceraser": "¡%1$s perdió su tipo Eléctrico gracias al Borrador Eléctrico!",
+  "cobblemon.battle.enditem.electriceraser": "¡%1$s recuperó su tipo Eléctrico al liberarse del Borrador Eléctrico!",
+
+  "item.pokemon_overcharge.fairyeraser": "§fBorrador Hada",
+  "tooltip.pokemon_overcharge.fairyeraser": "§7Borra el tipo Hada.",
+  "cobblemon.battle.item.fairyeraser": "¡%1$s perdió su tipo Hada gracias al Borrador Hada!",
+  "cobblemon.battle.enditem.fairyeraser": "¡%1$s recuperó su tipo Hada al liberarse del Borrador Hada!",
+
+  "item.pokemon_overcharge.fightingeraser": "§fBorrador Lucha",
+  "tooltip.pokemon_overcharge.fightingeraser": "§7Borra el tipo Lucha.",
+  "cobblemon.battle.item.fightingeraser": "¡%1$s perdió su tipo Lucha gracias al Borrador Lucha!",
+  "cobblemon.battle.enditem.fightingeraser": "¡%1$s recuperó su tipo Lucha al liberarse del Borrador Lucha!",
+
+  "item.pokemon_overcharge.fireeraser": "§fBorrador Fuego",
+  "tooltip.pokemon_overcharge.fireeraser": "§7Borra el tipo Fuego.",
+  "cobblemon.battle.item.fireeraser": "¡%1$s perdió su tipo Fuego gracias al Borrador Fuego!",
+  "cobblemon.battle.enditem.fireeraser": "¡%1$s recuperó su tipo Fuego al liberarse del Borrador Fuego!",
+
+  "item.pokemon_overcharge.flyingeraser": "§fBorrador Volador",
+  "tooltip.pokemon_overcharge.flyingeraser": "§7Borra el tipo Volador.",
+  "cobblemon.battle.item.flyingeraser": "¡%1$s perdió su tipo Volador gracias al Borrador Volador!",
+  "cobblemon.battle.enditem.flyingeraser": "¡%1$s recuperó su tipo Volador al liberarse del Borrador Volador!",
+
+  "item.pokemon_overcharge.ghosteraser": "§fBorrador Fantasma",
+  "tooltip.pokemon_overcharge.ghosteraser": "§7Borra el tipo Fantasma.",
+  "cobblemon.battle.item.ghosteraser": "¡%1$s perdió su tipo Fantasma gracias al Borrador Fantasma!",
+  "cobblemon.battle.enditem.ghosteraser": "¡%1$s recuperó su tipo Fantasma al liberarse del Borrador Fantasma!",
+
+  "item.pokemon_overcharge.grasseraser": "§fBorrador Planta",
+  "tooltip.pokemon_overcharge.grasseraser": "§7Borra el tipo Planta.",
+  "cobblemon.battle.item.grasseraser": "¡%1$s perdió su tipo Planta gracias al Borrador Planta!",
+  "cobblemon.battle.enditem.grasseraser": "¡%1$s recuperó su tipo Planta al liberarse del Borrador Planta!",
+
+  "item.pokemon_overcharge.grounderaser": "§fBorrador Tierra",
+  "tooltip.pokemon_overcharge.grounderaser": "§7Borra el tipo Tierra.",
+  "cobblemon.battle.item.grounderaser": "¡%1$s perdió su tipo Tierra gracias al Borrador Tierra!",
+  "cobblemon.battle.enditem.grounderaser": "¡%1$s recuperó su tipo Tierra al liberarse del Borrador Tierra!",
+
+  "item.pokemon_overcharge.iceeraser": "§fBorrador Hielo",
+  "tooltip.pokemon_overcharge.iceeraser": "§7Borra el tipo Hielo.",
+  "cobblemon.battle.item.iceeraser": "¡%1$s perdió su tipo Hielo gracias al Borrador Hielo!",
+  "cobblemon.battle.enditem.iceeraser": "¡%1$s recuperó su tipo Hielo al liberarse del Borrador Hielo!",
+
+  "item.pokemon_overcharge.normaleraser": "§fBorrador Normal",
+  "tooltip.pokemon_overcharge.normaleraser": "§7Borra el tipo Normal.",
+  "cobblemon.battle.item.normaleraser": "¡%1$s perdió su tipo Normal gracias al Borrador Normal!",
+  "cobblemon.battle.enditem.normaleraser": "¡%1$s recuperó su tipo Normal al liberarse del Borrador Normal!",
+
+  "item.pokemon_overcharge.poisoneraser": "§fBorrador Veneno",
+  "tooltip.pokemon_overcharge.poisoneraser": "§7Borra el tipo Veneno.",
+  "cobblemon.battle.item.poisoneraser": "¡%1$s perdió su tipo Veneno gracias al Borrador Veneno!",
+  "cobblemon.battle.enditem.poisoneraser": "¡%1$s recuperó su tipo Veneno al liberarse del Borrador Veneno!",
+
+  "item.pokemon_overcharge.psychiceraser": "§fBorrador Psíquico",
+  "tooltip.pokemon_overcharge.psychiceraser": "§7Borra el tipo Psíquico.",
+  "cobblemon.battle.item.psychiceraser": "¡%1$s perdió su tipo Psíquico gracias al Borrador Psíquico!",
+  "cobblemon.battle.enditem.psychiceraser": "¡%1$s recuperó su tipo Psíquico al liberarse del Borrador Psíquico!",
+
+  "item.pokemon_overcharge.rockeraser": "§fBorrador Roca",
+  "tooltip.pokemon_overcharge.rockeraser": "§7Borra el tipo Roca.",
+  "cobblemon.battle.item.rockeraser": "¡%1$s perdió su tipo Roca gracias al Borrador Roca!",
+  "cobblemon.battle.enditem.rockeraser": "¡%1$s recuperó su tipo Roca al liberarse del Borrador Roca!",
+
+  "item.pokemon_overcharge.steeleraser": "§fBorrador Acero",
+  "tooltip.pokemon_overcharge.steeleraser": "§7Borra el tipo Acero.",
+  "cobblemon.battle.item.steeleraser": "¡%1$s perdió su tipo Acero gracias al Borrador Acero!",
+  "cobblemon.battle.enditem.steeleraser": "¡%1$s recuperó su tipo Acero al liberarse del Borrador Acero!",
+
+  "item.pokemon_overcharge.watereraser": "§fBorrador Agua",
+  "tooltip.pokemon_overcharge.watereraser": "§7Borra el tipo Agua.",
+  "cobblemon.battle.item.watereraser": "¡%1$s perdió su tipo Agua gracias al Borrador Agua!",
+  "cobblemon.battle.enditem.watereraser": "¡%1$s recuperó su tipo Agua al liberarse del Borrador Agua!",
+
+  "item.pokemon_overcharge.bugcrayon": "§fCrayón Bicho",
+  "tooltip.pokemon_overcharge.bugcrayon": "§7Agrega el tipo Bicho.",
+  "cobblemon.battle.item.bugcrayon": "¡El Crayón agregó el tipo Bicho a %1$s!",
+  "cobblemon.battle.enditem.bugcrayon": "¡%1$s perdió el tipo Bicho!",
+
+  "item.pokemon_overcharge.darkcrayon": "§fCrayón Siniestro",
+  "tooltip.pokemon_overcharge.darkcrayon": "§7Agrega el tipo Siniestro.",
+  "cobblemon.battle.item.darkcrayon": "¡El Crayón agregó el tipo Siniestro a %1$s!",
+  "cobblemon.battle.enditem.darkcrayon": "¡%1$s perdió el tipo Siniestro!",
+
+  "item.pokemon_overcharge.dragoncrayon": "§fCrayón Dragón",
+  "tooltip.pokemon_overcharge.dragoncrayon": "§7Agrega el tipo Dragón.",
+  "cobblemon.battle.item.dragoncrayon": "¡El Crayón agregó el tipo Dragón a %1$s!",
+  "cobblemon.battle.enditem.dragoncrayon": "¡%1$s perdió el tipo Dragón!",
+
+  "item.pokemon_overcharge.electriccrayon": "§fCrayón Eléctrico",
+  "tooltip.pokemon_overcharge.electriccrayon": "§7Agrega el tipo Eléctrico.",
+  "cobblemon.battle.item.electriccrayon": "¡El Crayón agregó el tipo Eléctrico a %1$s!",
+  "cobblemon.battle.enditem.electriccrayon": "¡%1$s perdió el tipo Eléctrico!",
+
+  "item.pokemon_overcharge.fairycrayon": "§fCrayón Hada",
+  "tooltip.pokemon_overcharge.fairycrayon": "§7Agrega el tipo Hada.",
+  "cobblemon.battle.item.fairycrayon": "¡El Crayón agregó el tipo Hada a %1$s!",
+  "cobblemon.battle.enditem.fairycrayon": "¡%1$s perdió el tipo Hada!",
+
+  "item.pokemon_overcharge.fightingcrayon": "§fCrayón Lucha",
+  "tooltip.pokemon_overcharge.fightingcrayon": "§7Agrega el tipo Lucha.",
+  "cobblemon.battle.item.fightingcrayon": "¡El Crayón agregó el tipo Lucha a %1$s!",
+  "cobblemon.battle.enditem.fightingcrayon": "¡%1$s perdió el tipo Lucha!",
+
+  "item.pokemon_overcharge.firecrayon": "§fCrayón Fuego",
+  "tooltip.pokemon_overcharge.firecrayon": "§7Agrega el tipo Fuego.",
+  "cobblemon.battle.item.firecrayon": "¡El Crayón agregó el tipo Fuego a %1$s!",
+  "cobblemon.battle.enditem.firecrayon": "¡%1$s perdió el tipo Fuego!",
+
+  "item.pokemon_overcharge.flyingcrayon": "§fCrayón Volador",
+  "tooltip.pokemon_overcharge.flyingcrayon": "§7Agrega el tipo Volador.",
+  "cobblemon.battle.item.flyingcrayon": "¡El Crayón agregó el tipo Volador a %1$s!",
+  "cobblemon.battle.enditem.flyingcrayon": "¡%1$s perdió el tipo Volador!",
+
+  "item.pokemon_overcharge.ghostcrayon": "§fCrayón Fantasma",
+  "tooltip.pokemon_overcharge.ghostcrayon": "§7Agrega el tipo Fantasma.",
+  "cobblemon.battle.item.ghostcrayon": "¡El Crayón agregó el tipo Fantasma a %1$s!",
+  "cobblemon.battle.enditem.ghostcrayon": "¡%1$s perdió el tipo Fantasma!",
+
+  "item.pokemon_overcharge.grasscrayon": "§fCrayón Planta",
+  "tooltip.pokemon_overcharge.grasscrayon": "§7Agrega el tipo Planta.",
+  "cobblemon.battle.item.grasscrayon": "¡El Crayón agregó el tipo Planta a %1$s!",
+  "cobblemon.battle.enditem.grasscrayon": "¡%1$s perdió el tipo Planta!",
+
+  "item.pokemon_overcharge.groundcrayon": "§fCrayón Tierra",
+  "tooltip.pokemon_overcharge.groundcrayon": "§7Agrega el tipo Tierra.",
+  "cobblemon.battle.item.groundcrayon": "¡El Crayón agregó el tipo Tierra a %1$s!",
+  "cobblemon.battle.enditem.groundcrayon": "¡%1$s perdió el tipo Tierra!",
+
+  "item.pokemon_overcharge.icecrayon": "§fCrayón Hielo",
+  "tooltip.pokemon_overcharge.icecrayon": "§7Agrega el tipo Hielo.",
+  "cobblemon.battle.item.icecrayon": "¡El Crayón agregó el tipo Hielo a %1$s!",
+  "cobblemon.battle.enditem.icecrayon": "¡%1$s perdió el tipo Hielo!",
+
+  "item.pokemon_overcharge.normalcrayon": "§fCrayón Normal",
+  "tooltip.pokemon_overcharge.normalcrayon": "§7Agrega el tipo Normal.",
+  "cobblemon.battle.item.normalcrayon": "¡El Crayón agregó el tipo Normal a %1$s!",
+  "cobblemon.battle.enditem.normalcrayon": "¡%1$s perdió el tipo Normal!",
+
+  "item.pokemon_overcharge.poisoncrayon": "§fCrayón Veneno",
+  "tooltip.pokemon_overcharge.poisoncrayon": "§7Agrega el tipo Veneno.",
+  "cobblemon.battle.item.poisoncrayon": "¡El Crayón agregó el tipo Veneno a %1$s!",
+  "cobblemon.battle.enditem.poisoncrayon": "¡%1$s perdió el tipo Veneno!",
+
+  "item.pokemon_overcharge.psychiccrayon": "§fCrayón Psíquico",
+  "tooltip.pokemon_overcharge.psychiccrayon": "§7Agrega el tipo Psíquico.",
+  "cobblemon.battle.item.psychiccrayon": "¡El Crayón agregó el tipo Psíquico a %1$s!",
+  "cobblemon.battle.enditem.psychiccrayon": "¡%1$s perdió el tipo Psíquico!",
+
+  "item.pokemon_overcharge.rockcrayon": "§fCrayón Roca",
+  "tooltip.pokemon_overcharge.rockcrayon": "§7Agrega el tipo Roca.",
+  "cobblemon.battle.item.rockcrayon": "¡El Crayón agregó el tipo Roca a %1$s!",
+  "cobblemon.battle.enditem.rockcrayon": "¡%1$s perdió el tipo Roca!",
+
+  "item.pokemon_overcharge.steelcrayon": "§fCrayón Acero",
+  "tooltip.pokemon_overcharge.steelcrayon": "§7Agrega el tipo Acero.",
+  "cobblemon.battle.item.steelcrayon": "¡El Crayón agregó el tipo Acero a %1$s!",
+  "cobblemon.battle.enditem.steelcrayon": "¡%1$s perdió el tipo Acero!",
+
+  "item.pokemon_overcharge.watercrayon": "§fCrayón Agua",
+  "tooltip.pokemon_overcharge.watercrayon": "§7Agrega el tipo Agua.",
+  "cobblemon.battle.item.watercrayon": "¡El Crayón agregó el tipo Agua a %1$s!",
+  "cobblemon.battle.enditem.watercrayon": "¡%1$s perdió el tipo Agua!",
+
+  "item.pokemon_overcharge.d20": "§fD20",
+  "tooltip.pokemon_overcharge.d20": "§7Lanza el dado para obtener uno de los 20 efectos aleatorios",
+  "cobblemon.battle.item.d201": "Obtuviste un 1",
+  "cobblemon.battle.item.d202": "Obtuviste un 2",
+  "cobblemon.battle.item.d203": "Obtuviste un 3",
+  "cobblemon.battle.item.d204": "Obtuviste un 4",
+  "cobblemon.battle.item.d205": "Obtuviste un 5",
+  "cobblemon.battle.item.d206": "Obtuviste un 6",
+  "cobblemon.battle.item.d207": "Obtuviste un 7",
+  "cobblemon.battle.item.d208": "Obtuviste un 8",
+  "cobblemon.battle.item.d209": "Obtuviste un 9",
+  "cobblemon.battle.item.d2010": "Obtuviste un 10",
+  "cobblemon.battle.item.d2011": "Obtuviste un 11",
+  "cobblemon.battle.item.d2012": "Obtuviste un 12",
+  "cobblemon.battle.item.d2013": "Obtuviste un 13",
+  "cobblemon.battle.item.d2014": "Obtuviste un 14",
+  "cobblemon.battle.item.d2015": "Obtuviste un 15",
+  "cobblemon.battle.item.d2016": "Obtuviste un 16",
+  "cobblemon.battle.item.d2017": "Obtuviste un 17",
+  "cobblemon.battle.item.d2018": "Obtuviste un 18",
+  "cobblemon.battle.item.d2019": "Obtuviste un 19",
+  "cobblemon.battle.item.d2020": "Obtuviste un 20"
+}

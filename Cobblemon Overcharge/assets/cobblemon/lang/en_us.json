@@ -1,0 +1,275 @@
+{
+  "cobblemon.move.brilliantcut": "Brilliant Cut",
+  "cobblemon.move.brilliantcut.desc": "The user performs a stylish and radiant cut that shines with energy. It can leave the target paralyzed by the impact of its brightness.",
+
+  "cobblemon.move.degradation": "Degradation",
+  "cobblemon.move.degradation.desc": "The user launches a toxic wave that breaks down metal structures. It is especially effective against Steel type Pokémon and can poison them.",
+
+  "cobblemon.move.dragonblaze": "Dragon Blaze",
+  "cobblemon.move.dragonblaze.desc": "The user exhales blazing draconic fire in a concentrated burst. It can burn the target.",
+
+  "cobblemon.move.electroears": "Electro Ears",
+  "cobblemon.move.electroears.desc": "The user rubs its electric ears and strikes with a charged blow. Its power doubles if paralyzed, and its speed never drops while attacking.",
+
+  "cobblemon.move.falseimpact": "False Impact",
+  "cobblemon.move.falseimpact.desc": "With a dark flash and a whisper of magic, the user unleashes a fleeting strike upon entering battle. The rival, paralyzed by fear, instantly recoils without being able to react.",
+
+  "cobblemon.move.thunderstrike": "Thunder Strike",
+  "cobblemon.move.thunderstrike.desc": "A kick loaded with great force that, when received, can daze the opponent.",
+
+  "cobblemon.move.lovinggale": "Loving Gale",
+  "cobblemon.move.lovinggale.desc": "The user manipulates the target's emotions through a powerful emotional bond. If they are of opposite genders, the target falls under an emotional enchantment that heals the bond's creator and strengthens their defenses. If the bond fails to form, the user becomes emotionally destabilized, and their defenses are weakened.",
+  "cobblemon.battle.activate.lovinggalesuccess": "%1$s emotionally connects with the opponent.",
+  "cobblemon.battle.activate.lovinggalefail": "%1$s does not manage to connect emotionally with the opponent.",
+  "cobblemon.battle.activate.lovinggalesame": "%1$s is not interested in the opponent.",
+
+  "cobblemon.ability.mentalist": "Mentalist",
+  "cobblemon.ability.mentalist.desc": "Create a bizarre area at the start of the battle where slow Pokémon move first for five turns.",
+
+  "cobblemon.ability.polymorphism": "Polymorphism",
+  "cobblemon.ability.polymorphism.desc": "Upon entering combat, the user briefly alters the essence of the opponent, adding the Fairy type to it.",
+
+  "cobblemon.ability.sharedmonarchy": "Shared Monarchy",
+  "cobblemon.ability.sharedmonarchy.desc": "The power of royalty is divided between two lineages. It only boosts the moves of Dragon and Fairy types with lower base power, making even the most humble among them shine.",
+
+  "cobblemon.ability.mytheater": "Myth Eater",
+  "cobblemon.ability.mytheater.desc": "Feeding on dreams and illusions, this Pokémon devours the very essence of fairies. Rather than harming it, Fairy-type attacks bolster its mind, making it even more resistant to special attacks.",
+
+  "cobblemon.ability.override": "Override",
+  "cobblemon.ability.override.desc": "This Pokémon isn't restricted to one move when holding a Choice item.",
+
+  "cobblemon.ability.bizarre": "Bizarre",
+  "cobblemon.ability.bizarre.desc": "This Pokémon flips the effectiveness of all types: what would normally be weak is now strong, and what would normally be strong becomes weak.",
+  "cobblemon.battle.activate.bizarre": "The battlefield twists mysteriously!",
+  "cobblemon.battle.end.bizarre": "The battlefield returns to normal!",
+
+  "cobblemon.ability.vocalist": "Vocalist",
+  "cobblemon.ability.vocalist.desc": "Give +1 priority to sound moves.",
+
+  "item.pokemon_overcharge.shockingorb": "§fShocking Orb",
+  "tooltip.pokemon_overcharge.shockingorb": "§7Apply Paralyze on the holder.",
+
+  "item.pokemon_overcharge.trainingwheels": "§fTraining Wheels",
+  "tooltip.pokemon_overcharge.trainingwheels": "§7Boosts the holder's Attack and Sp. Attack if it is not fully evolved.",
+
+  "item.pokemon_overcharge.earmuffs": "§fEarmuffs",
+  "tooltip.pokemon_overcharge.earmuffs": "§7Halves the power of sound-based moves used against the holder.",
+
+  "item.pokemon_overcharge.oldshield": "§fOld Shield",
+  "tooltip.pokemon_overcharge.oldshield": "§7Raises the holder's Def but prevents the use of status moves.",
+
+  "item.pokemon_overcharge.blankplate": "§fBlank Plate",
+  "tooltip.pokemon_overcharge.blankplate": "§7A tablet that raises the power of Normal-type moves.",
+
+  "item.pokemon_overcharge.polarizedglass": "§fPolarized Glass",
+  "tooltip.pokemon_overcharge.polarizedglass": "§7The Pokémon that carries this item can ignore the opponent's ability.\nBut if the pokemon receives an attack, the crystal will break.",
+  "cobblemon.battle.item.polarizedglass": "%1$s look through the Polarized Glass!",
+  "cobblemon.battle.enditem.polarizedglass": "%1$s's Polarized Glass broke!",
+
+  "item.pokemon_overcharge.bugeraser": "§fBug Eraser",
+  "tooltip.pokemon_overcharge.bugeraser": "§7Erases the Bug type.",
+  "cobblemon.battle.item.bugeraser": "The Eraser removed the Bug type from %1$s!",
+  "cobblemon.battle.enditem.bugeraser": "Without the Eraser, %1$s regained its Bug type!",
+
+  "item.pokemon_overcharge.darkeraser": "§fDark Eraser",
+  "tooltip.pokemon_overcharge.darkeraser": "§7Erases the Dark type.",
+  "cobblemon.battle.item.darkeraser": "The Eraser removed the Dark type from %1$s!",
+  "cobblemon.battle.enditem.darkeraser": "Without the Eraser, %1$s regained its Dark type!",
+
+  "item.pokemon_overcharge.dragoneraser": "§fDragon Eraser",
+  "tooltip.pokemon_overcharge.dragoneraser": "§7Erases the Dragon type.",
+  "cobblemon.battle.item.dragoneraser": "The Eraser removed the Dragon type from %1$s!",
+  "cobblemon.battle.enditem.dragoneraser": "Without the Eraser, %1$s regained its Dragon type!",
+
+  "item.pokemon_overcharge.electriceraser": "§fElectric Eraser",
+  "tooltip.pokemon_overcharge.electriceraser": "§7Erases the Electric type.",
+  "cobblemon.battle.item.electriceraser": "The Eraser removed the Electric type from %1$s!",
+  "cobblemon.battle.enditem.electriceraser": "Without the Eraser, %1$s regained its Electric type!",
+
+  "item.pokemon_overcharge.fairyeraser": "§fFairy Eraser",
+  "tooltip.pokemon_overcharge.fairyeraser": "§7Erases the Fairy type.",
+  "cobblemon.battle.item.fairyeraser": "The Eraser removed the Fairy type from %1$s!",
+  "cobblemon.battle.enditem.fairyeraser": "Without the Eraser, %1$s regained its Fairy type!",
+
+  "item.pokemon_overcharge.fightingeraser": "§fFighting Eraser",
+  "tooltip.pokemon_overcharge.fightingeraser": "§7Erases the Fighting type.",
+  "cobblemon.battle.item.fightingeraser": "The Eraser removed the Fighting type from %1$s!",
+  "cobblemon.battle.enditem.fightingeraser": "Without the Eraser, %1$s regained its Fighting type!",
+
+  "item.pokemon_overcharge.fireeraser": "§fFire Eraser",
+  "tooltip.pokemon_overcharge.fireeraser": "§7Erases the Fire type.",
+  "cobblemon.battle.item.fireeraser": "The Eraser removed the Fire type from %1$s!",
+  "cobblemon.battle.enditem.fireeraser": "Without the Eraser, %1$s regained its Fire type!",
+
+  "item.pokemon_overcharge.flyingeraser": "§fFlying Eraser",
+  "tooltip.pokemon_overcharge.flyingeraser": "§7Erases the Flying type.",
+  "cobblemon.battle.item.flyingeraser": "The Eraser removed the Flying type from %1$s!",
+  "cobblemon.battle.enditem.flyingeraser": "Without the Eraser, %1$s regained its Flying type!",
+
+  "item.pokemon_overcharge.ghosteraser": "§fGhost Eraser",
+  "tooltip.pokemon_overcharge.ghosteraser": "§7Erases the Ghost type.",
+  "cobblemon.battle.item.ghosteraser": "The Eraser removed the Ghost type from %1$s!",
+  "cobblemon.battle.enditem.ghosteraser": "Without the Eraser, %1$s regained its Ghost type!",
+
+  "item.pokemon_overcharge.grasseraser": "§fGrass Eraser",
+  "tooltip.pokemon_overcharge.grasseraser": "§7Erases the Grass type.",
+  "cobblemon.battle.item.grasseraser": "The Eraser removed the Grass type from %1$s!",
+  "cobblemon.battle.enditem.grasseraser": "Without the Eraser, %1$s regained its Grass type!",
+
+  "item.pokemon_overcharge.grounderaser": "§fGround Eraser",
+  "tooltip.pokemon_overcharge.grounderaser": "§7Erases the Ground type.",
+  "cobblemon.battle.item.grounderaser": "The Eraser removed the Ground type from %1$s!",
+  "cobblemon.battle.enditem.grounderaser": "Without the Eraser, %1$s regained its Ground type!",
+
+  "item.pokemon_overcharge.iceeraser": "§fIce Eraser",
+  "tooltip.pokemon_overcharge.iceeraser": "§7Erases the Ice type.",
+  "cobblemon.battle.item.iceeraser": "The Eraser removed the Ice type from %1$s!",
+  "cobblemon.battle.enditem.iceeraser": "Without the Eraser, %1$s regained its Ice type!",
+
+  "item.pokemon_overcharge.normaleraser": "§fNormal Eraser",
+  "tooltip.pokemon_overcharge.normaleraser": "§7Erases the Normal type.",
+  "cobblemon.battle.item.normaleraser": "The Eraser removed the Normal type from %1$s!",
+  "cobblemon.battle.enditem.normaleraser": "Without the Eraser, %1$s regained its Normal type!",
+
+  "item.pokemon_overcharge.poisoneraser": "§fPoison Eraser",
+  "tooltip.pokemon_overcharge.poisoneraser": "§7Erases the Poison type.",
+  "cobblemon.battle.item.poisoneraser": "The Eraser removed the Poison type from %1$s!",
+  "cobblemon.battle.enditem.poisoneraser": "Without the Eraser, %1$s regained its Poison type!",
+
+  "item.pokemon_overcharge.psychiceraser": "§fPsychic Eraser",
+  "tooltip.pokemon_overcharge.psychiceraser": "§7Erases the Psychic type.",
+  "cobblemon.battle.item.psychiceraser": "The Eraser removed the Psychic type from %1$s!",
+  "cobblemon.battle.enditem.psychiceraser": "Without the Eraser, %1$s regained its Psychic type!",
+
+  "item.pokemon_overcharge.rockeraser": "§fRock Eraser",
+  "tooltip.pokemon_overcharge.rockeraser": "§7Erases the Rock type.",
+  "cobblemon.battle.item.rockeraser": "The Eraser removed the Rock type from %1$s!",
+  "cobblemon.battle.enditem.rockeraser": "Without the Eraser, %1$s regained its Rock type!",
+
+  "item.pokemon_overcharge.steeleraser": "§fSteel Eraser",
+  "tooltip.pokemon_overcharge.steeleraser": "§7Erases the Steel type.",
+  "cobblemon.battle.item.steeleraser": "The Eraser removed the Steel type from %1$s!",
+  "cobblemon.battle.enditem.steeleraser": "Without the Eraser, %1$s regained its Steel type!",
+
+  "item.pokemon_overcharge.watereraser": "§fWater Eraser",
+  "tooltip.pokemon_overcharge.watereraser": "§7Erases the Water type.",
+  "cobblemon.battle.item.watereraser": "The Eraser removed the Water type from %1$s!",
+  "cobblemon.battle.enditem.watereraser": "Without the Eraser, %1$s regained its Water type!",
+
+  "item.pokemon_overcharge.bugcrayon": "§fBug Crayon",
+  "tooltip.pokemon_overcharge.bugcrayon": "§7Add the Bug type.",
+  "cobblemon.battle.item.bugcrayon": "The Crayon added the Bug type to %1$s!",
+  "cobblemon.battle.enditem.bugcrayon": "Without the Crayon, %1$s lost its Bug type!",
+
+  "item.pokemon_overcharge.darkcrayon": "§fDark Crayon",
+  "tooltip.pokemon_overcharge.darkcrayon": "§7Add the Dark type.",
+  "cobblemon.battle.item.darkcrayon": "The Crayon added the Dark type to %1$s!",
+  "cobblemon.battle.enditem.darkcrayon": "Without the Crayon, %1$s lost its Dark type!",
+
+  "item.pokemon_overcharge.dragoncrayon": "§fDragon Crayon",
+  "tooltip.pokemon_overcharge.dragoncrayon": "§7Add the Dragon type.",
+  "cobblemon.battle.item.dragoncrayon": "The Crayon added the Dragon type to %1$s!",
+  "cobblemon.battle.enditem.dragoncrayon": "Without the Crayon, %1$s lost its Dragon type!",
+
+  "item.pokemon_overcharge.electriccrayon": "§fElectric Crayon",
+  "tooltip.pokemon_overcharge.electriccrayon": "§7Add the Electric type.",
+  "cobblemon.battle.item.electriccrayon": "The Crayon added the Electric type to %1$s!",
+  "cobblemon.battle.enditem.electriccrayon": "Without the Crayon, %1$s lost its Electric type!",
+
+  "item.pokemon_overcharge.fairycrayon": "§fFairy Crayon",
+  "tooltip.pokemon_overcharge.fairycrayon": "§7Add the Fairy type.",
+  "cobblemon.battle.item.fairycrayon": "The Crayon added the Fairy type to %1$s!",
+  "cobblemon.battle.enditem.fairycrayon": "Without the Crayon, %1$s lost its Fairy type!",
+
+  "item.pokemon_overcharge.fightingcrayon": "§fFighting Crayon",
+  "tooltip.pokemon_overcharge.fightingcrayon": "§7Add the Fighting type.",
+  "cobblemon.battle.item.fightingcrayon": "The Crayon added the Fighting type to %1$s!",
+  "cobblemon.battle.enditem.fightingcrayon": "Without the Crayon, %1$s lost its Fighting type!",
+
+  "item.pokemon_overcharge.firecrayon": "§fFire Crayon",
+  "tooltip.pokemon_overcharge.firecrayon": "§7Add the Fire type.",
+  "cobblemon.battle.item.firecrayon": "The Crayon added the Fire type to %1$s!",
+  "cobblemon.battle.enditem.firecrayon": "Without the Crayon, %1$s lost its Fire type!",
+
+  "item.pokemon_overcharge.flyingcrayon": "§fFlying Crayon",
+  "tooltip.pokemon_overcharge.flyingcrayon": "§7Add the Flying type.",
+  "cobblemon.battle.item.flyingcrayon": "The Crayon added the Flying type to %1$s!",
+  "cobblemon.battle.enditem.flyingcrayon": "Without the Crayon, %1$s lost its Flying type!",
+
+  "item.pokemon_overcharge.ghostcrayon": "§fGhost Crayon",
+  "tooltip.pokemon_overcharge.ghostcrayon": "§7Add the Ghost type.",
+  "cobblemon.battle.item.ghostcrayon": "The Crayon added the Ghost type to %1$s!",
+  "cobblemon.battle.enditem.ghostcrayon": "Without the Crayon, %1$s lost its Ghost type!",
+
+  "item.pokemon_overcharge.grasscrayon": "§fGrass Crayon",
+  "tooltip.pokemon_overcharge.grasscrayon": "§7Add the Grass type.",
+  "cobblemon.battle.item.grasscrayon": "The Crayon added the Grass type to %1$s!",
+  "cobblemon.battle.enditem.grasscrayon": "Without the Crayon, %1$s lost its Grass type!",
+
+  "item.pokemon_overcharge.groundcrayon": "§fGround Crayon",
+  "tooltip.pokemon_overcharge.groundcrayon": "§7Add the Ground type.",
+  "cobblemon.battle.item.groundcrayon": "The Crayon added the Ground type to %1$s!",
+  "cobblemon.battle.enditem.groundcrayon": "Without the Crayon, %1$s lost its Ground type!",
+
+  "item.pokemon_overcharge.icecrayon": "§fIce Crayon",
+  "tooltip.pokemon_overcharge.icecrayon": "§7Add the Ice type.",
+  "cobblemon.battle.item.icecrayon": "The Crayon added the Ice type to %1$s!",
+  "cobblemon.battle.enditem.icecrayon": "Without the Crayon, %1$s lost its Ice type!",
+
+  "item.pokemon_overcharge.normalcrayon": "§fNormal Crayon",
+  "tooltip.pokemon_overcharge.normalcrayon": "§7Add the Normal type.",
+  "cobblemon.battle.item.normalcrayon": "The Crayon added the Normal type to %1$s!",
+  "cobblemon.battle.enditem.normalcrayon": "Without the Crayon, %1$s lost its Normal type!",
+
+  "item.pokemon_overcharge.poisoncrayon": "§fPoison Crayon",
+  "tooltip.pokemon_overcharge.poisoncrayon": "§7Add the Poison type.",
+  "cobblemon.battle.item.poisoncrayon": "The Crayon added the Poison type to %1$s!",
+  "cobblemon.battle.enditem.poisoncrayon": "Without the Crayon, %1$s lost its Poison type!",
+
+  "item.pokemon_overcharge.psychiccrayon": "§fPsychic Crayon",
+  "tooltip.pokemon_overcharge.psychiccrayon": "§7Add the Psychic type.",
+  "cobblemon.battle.item.psychiccrayon": "The Crayon added the Psychic type to %1$s!",
+  "cobblemon.battle.enditem.psychiccrayon": "Without the Crayon, %1$s lost its Psychic type!",
+
+  "item.pokemon_overcharge.rockcrayon": "§fRock Crayon",
+  "tooltip.pokemon_overcharge.rockcrayon": "§7Add the Rock type.",
+  "cobblemon.battle.item.rockcrayon": "The Crayon added the Rock type to %1$s!",
+  "cobblemon.battle.enditem.rockcrayon": "Without the Crayon, %1$s lost its Rock type!",
+
+  "item.pokemon_overcharge.steelcrayon": "§fSteel Crayon",
+  "tooltip.pokemon_overcharge.steelcrayon": "§7Add the Steel type.",
+  "cobblemon.battle.item.steelcrayon": "The Crayon added the Steel type to %1$s!",
+  "cobblemon.battle.enditem.steelcrayon": "Without the Crayon, %1$s lost its Steel type!",
+
+  "item.pokemon_overcharge.watercrayon": "§fWater Crayon",
+  "tooltip.pokemon_overcharge.watercrayon": "§7Add the Water type.",
+  "cobblemon.battle.item.watercrayon": "The Crayon added the Water type to %1$s!",
+  "cobblemon.battle.enditem.watercrayon": "Without the Crayon, %1$s lost its Water type!",
+
+  "cobblemon.battle.start.typeremove": "%2$s type was removed to %1$s!",
+  "cobblemon.ability.noability": "No Ability",
+  "cobblemon.ability.noability.desc": "",
+
+  "item.pokemon_overcharge.d20": "§fD20",
+  "tooltip.pokemon_overcharge.d20": "§7Roll the dice and get one of 20 random effects.",
+  "cobblemon.battle.item.d201": "Obtuviste un 1",
+  "cobblemon.battle.item.d202": "Obtuviste un 2",
+  "cobblemon.battle.item.d203": "Obtuviste un 3",
+  "cobblemon.battle.item.d204": "Obtuviste un 4",
+  "cobblemon.battle.item.d205": "Obtuviste un 5",
+  "cobblemon.battle.item.d206": "Obtuviste un 6",
+  "cobblemon.battle.item.d207": "Obtuviste un 7",
+  "cobblemon.battle.item.d208": "Obtuviste un 8",
+  "cobblemon.battle.item.d209": "Obtuviste un 9",
+  "cobblemon.battle.item.d2010": "Obtuviste un 10",
+  "cobblemon.battle.item.d2011": "Obtuviste un 11",
+  "cobblemon.battle.item.d2012": "Obtuviste un 12",
+  "cobblemon.battle.item.d2013": "Obtuviste un 13",
+  "cobblemon.battle.item.d2014": "Obtuviste un 14",
+  "cobblemon.battle.item.d2015": "Obtuviste un 15",
+  "cobblemon.battle.item.d2016": "Obtuviste un 16",
+  "cobblemon.battle.item.d2017": "Obtuviste un 17",
+  "cobblemon.battle.item.d2018": "Obtuviste un 18",
+  "cobblemon.battle.item.d2019": "Obtuviste un 19",
+  "cobblemon.battle.item.d2020": "Obtuviste un 20"
+}

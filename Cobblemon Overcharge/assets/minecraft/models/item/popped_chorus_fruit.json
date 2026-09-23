@@ -1,0 +1,274 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "minecraft:item/popped_chorus_fruit"
+  },
+  "overrides": [
+    {
+      "model": "pokemon_overcharge:item/erasers/bugeraser",
+      "predicate": {
+        "custom_model_data": 10571
+      }
+    },
+    {
+      "model": "pokemon_overcharge:item/erasers/darkeraser",
+      "predicate": {
+        "custom_model_data": 10572
+      }
+    },
+    {
+      "model": "pokemon_overcharge:item/erasers/dragoneraser",
+      "predicate": {
+        "custom_model_data": 10573
+      }
+    },
+    {
+      "model": "pokemon_overcharge:item/erasers/electriceraser",
+      "predicate": {
+        "custom_model_data": 10574
+      }
+    },
+    {
+      "model": "pokemon_overcharge:item/erasers/fairyeraser",
+      "predicate": {
+        "custom_model_data": 10575
+      }
+    },
+    {
+      "model": "pokemon_overcharge:item/erasers/fightingeraser",
+      "predicate": {
+        "custom_model_data": 10576
+      }
+    },
+    {
+      "model": "pokemon_overcharge:item/erasers/fireeraser",
+      "predicate": {
+        "custom_model_data": 10577
+      }
+    },
+    {
+      "model": "pokemon_overcharge:item/erasers/flyingeraser",
+      "predicate": {
+        "custom_model_data": 10578
+      }
+    },
+    {
+      "model": "pokemon_overcharge:item/erasers/ghosteraser",
+      "predicate": {
+        "custom_model_data": 10579
+      }
+    },
+    {
+      "model": "pokemon_overcharge:item/erasers/grasseraser",
+      "predicate": {
+        "custom_model_data": 10580
+      }
+    },
+    {
+      "model": "pokemon_overcharge:item/erasers/grounderaser",
+      "predicate": {
+        "custom_model_data": 10581
+      }
+    },
+    {
+      "model": "pokemon_overcharge:item/erasers/iceeraser",
+      "predicate": {
+        "custom_model_data": 10582
+      }
+    },
+    {
+      "model": "pokemon_overcharge:item/erasers/normaleraser",
+      "predicate": {
+        "custom_model_data": 10583
+      }
+    },
+    {
+      "model": "pokemon_overcharge:item/erasers/poisoneraser",
+      "predicate": {
+        "custom_model_data": 10584
+      }
+    },
+    {
+      "model": "pokemon_overcharge:item/erasers/psychiceraser",
+      "predicate": {
+        "custom_model_data": 10585
+      }
+    },
+
+    {
+      "model": "pokemon_overcharge:item/erasers/rockeraser",
+      "predicate": {
+        "custom_model_data": 10586
+      }
+    },
+    {
+      "model": "pokemon_overcharge:item/erasers/steeleraser",
+      "predicate": {
+        "custom_model_data": 10587
+      }
+    },
+    {
+      "model": "pokemon_overcharge:item/erasers/watereraser",
+      "predicate": {
+        "custom_model_data": 10588
+      }
+    },
+
+    {
+      "model": "pokemon_overcharge:item/shockingorb",
+      "predicate": {
+        "custom_model_data": 10591
+      }
+    },
+    {
+      "model": "pokemon_overcharge:item/trainingwheels",
+      "predicate": {
+        "custom_model_data": 10592
+      }
+    },
+    {
+      "model": "pokemon_overcharge:item/oldshield",
+      "predicate": {
+        "custom_model_data": 10593
+      }
+    },
+    {
+      "model": "pokemon_overcharge:item/earmuffs",
+      "predicate": {
+        "custom_model_data": 10594
+      }
+    },
+    {
+      "model": "pokemon_overcharge:item/blankplate",
+      "predicate": {
+        "custom_model_data": 10595
+      }
+    },
+    {
+      "model": "pokemon_overcharge:item/polarizedglass",
+      "predicate": {
+        "custom_model_data": 10791
+      }
+    },
+    {
+      "model": "pokemon_overcharge:item/crayons/bugcrayon",
+      "predicate": {
+        "custom_model_data": 55001
+      }
+    },
+    {
+      "model": "pokemon_overcharge:item/crayons/darkcrayon",
+      "predicate": {
+        "custom_model_data": 55002
+      }
+    },
+    {
+      "model": "pokemon_overcharge:item/crayons/dragoncrayon",
+      "predicate": {
+        "custom_model_data": 55003
+      }
+    },
+    {
+      "model": "pokemon_overcharge:item/crayons/electriccrayon",
+      "predicate": {
+        "custom_model_data": 55004
+      }
+    },
+    {
+      "model": "pokemon_overcharge:item/crayons/fairycrayon",
+      "predicate": {
+        "custom_model_data": 55005
+      }
+    },
+    {
+      "model": "pokemon_overcharge:item/crayons/fightingcrayon",
+      "predicate": {
+        "custom_model_data": 55006
+      }
+    },
+    {
+      "model": "pokemon_overcharge:item/crayons/firecrayon",
+      "predicate": {
+        "custom_model_data": 55007
+      }
+    },
+    {
+      "model": "pokemon_overcharge:item/crayons/flyingcrayon",
+      "predicate": {
+        "custom_model_data": 55008
+      }
+    },
+    {
+      "model": "pokemon_overcharge:item/crayons/ghostcrayon",
+      "predicate": {
+        "custom_model_data": 55009
+      }
+    },
+    {
+      "model": "pokemon_overcharge:item/crayons/ghostcrayon",
+      "predicate": {
+        "custom_model_data": 55009
+      }
+    },
+    {
+      "model": "pokemon_overcharge:item/crayons/grasscrayon",
+      "predicate": {
+        "custom_model_data": 55010
+      }
+    },
+    {
+      "model": "pokemon_overcharge:item/crayons/groundcrayon",
+      "predicate": {
+        "custom_model_data": 55011
+      }
+    },
+    {
+      "model": "pokemon_overcharge:item/crayons/icecrayon",
+      "predicate": {
+        "custom_model_data": 55012
+      }
+    },
+    {
+      "model": "pokemon_overcharge:item/crayons/normalcrayon",
+      "predicate": {
+        "custom_model_data": 55013
+      }
+    },
+    {
+      "model": "pokemon_overcharge:item/crayons/poisoncrayon",
+      "predicate": {
+        "custom_model_data": 55014
+      }
+    },
+    {
+      "model": "pokemon_overcharge:item/crayons/psychiccrayon",
+      "predicate": {
+        "custom_model_data": 55015
+      }
+    },
+    {
+      "model": "pokemon_overcharge:item/crayons/rockcrayon",
+      "predicate": {
+        "custom_model_data": 55016
+      }
+    },
+    {
+      "model": "pokemon_overcharge:item/crayons/steelcrayon",
+      "predicate": {
+        "custom_model_data": 55017
+      }
+    },
+    {
+      "model": "pokemon_overcharge:item/crayons/watercrayon",
+      "predicate": {
+        "custom_model_data": 55018
+      }
+    },
+    {
+      "model": "pokemon_overcharge:item/d20",
+      "predicate": {
+        "custom_model_data": 55020
+      }
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "D": {
+      "item": "minecraft:paper"
+    },
+    "I": {
+      "item": "minecraft:clay_ball"
+    },
+    "T": {
+      "item": "mega_showdown:rock_tera_shard"
+    }
+  },
+  "pattern": ["TIT", "DDD", "TIT"],
+  "result": {
+    "count": 1,
+    "id": "minecraft:popped_chorus_fruit",
+    "components": {
+      "minecraft:custom_model_data": 10586,
+      "minecraft:item_name": "{\"translate\":\"item.pokemon_overcharge.rockeraser\", \"italic\":false}",
+      "minecraft:lore": [
+        "{\"translate\":\"tooltip.pokemon_overcharge.rockeraser\", \"color\":\"gray\", \"italic\":false}"
+      ],
+      "mega_showdown:registry_type_component": "showdown_item",
+      "mega_showdown:registry_location_component": "pokemon_overcharge:erasers/rockeraser"
+    }
+  }
+}

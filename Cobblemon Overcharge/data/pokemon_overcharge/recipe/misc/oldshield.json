@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "G": {
+      "tag": "minecraft:planks"
+    },
+    "R": {
+      "item": "minecraft:iron_ingot"
+    },
+    "W": {
+      "item": "minecraft:shield"
+    }
+  },
+  "pattern": ["RWR", "RGR", " R "],
+  "result": {
+    "count": 1,
+    "id": "minecraft:popped_chorus_fruit",
+    "components": {
+      "minecraft:custom_model_data": 10593,
+      "minecraft:item_name": "{\"translate\":\"item.pokemon_overcharge.oldshield\", \"italic\":false}",
+      "minecraft:lore": [
+        "{\"translate\":\"tooltip.pokemon_overcharge.oldshield\", \"color\":\"gray\", \"italic\":false}"
+      ],
+      "mega_showdown:registry_type_component": "showdown_item",
+      "mega_showdown:registry_location_component": "pokemon_overcharge:misc/oldshield"
+    }
+  }
+}
